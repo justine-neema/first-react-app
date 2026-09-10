@@ -1,4 +1,5 @@
 import React from 'react';
+import './MyComponent.css'; //importing the css file
 
 const MyComponent: React.FC = () => {
     return (
